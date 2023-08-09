@@ -12,6 +12,7 @@
         "main.ts",
         "README.md",
         "assets.json",
+        "sandbox-tutorial.md",
         "main.py"
     ],
     "testFiles": [
