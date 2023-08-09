@@ -55,6 +55,16 @@ Use different control structures to make your code more abstract.
     pass
   else:
     pass
+```
+
+## Change the music and splash during the robot's journey.
+
+Use different control structures to make your code more abstract.
+
+```python
+    music.play(music.melody_playable(music.power_up),music.PlaybackMode.UNTIL_DONE)
+    game.splash("You reached the goal!")
+```
 
 
 ```assetjson
