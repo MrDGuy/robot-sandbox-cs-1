@@ -48,6 +48,9 @@ Use different control structures to make your code more abstract.
   for i in range(4):
     pass
 
+  while True:
+    pass
+
   if robot.can_move("forward"):
     pass
 
